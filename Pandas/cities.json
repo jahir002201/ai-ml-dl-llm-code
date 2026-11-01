@@ -1,0 +1,14 @@
+[
+    {
+        "City":"Dhaka",
+        "Population_Millions":10.2
+    },
+    {
+        "City":"Mymensingh",
+        "Population_Millions":0.6
+    },
+    {
+        "City":"Chattogram",
+        "Population_Millions":5.2
+    }
+]
